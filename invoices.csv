@@ -1,0 +1,7 @@
+from_who,to_who,logo,number,date,due_date,items,notes
+Self Made,Nike,https://i.ibb.co/ZJLQJmb/selfmade-black.jpg,1,03.09.2020,20.09.2020,"[{""name"": ""Shop automation service"", ""quantity"": 1, ""unit_cost"": 5000}]",Thanks for your business!
+Self Made,Google,https://i.ibb.co/ZJLQJmb/selfmade-black.jpg,2,04.09.2020,21.09.2020,"[{""name"": ""Web Scraper"", ""quantity"": 1, ""unit_cost"": 1500}]",Was a pleasure!
+Self Made,Facebook,https://i.ibb.co/ZJLQJmb/selfmade-black.jpg,3,05.09.2020,22.09.2020,"[{""name"": ""Starter plan"", ""quantity"": 1, ""unit_cost"": 350}, {""name"": ""Ads Automation"", ""quantity"": 1, ""unit_cost"": 7500}]",Thanks!
+Self Made,Netflix,https://i.ibb.co/ZJLQJmb/selfmade-black.jpg,4,06.09.2020,23.09.2020,"[{""name"": ""Predicting Algorithm"", ""quantity"": 1, ""unit_cost"": 3500}]",Looking for more collaboration in the future.
+Self Made,Amazon,https://i.ibb.co/ZJLQJmb/selfmade-black.jpg,5,07.09.2020,24.09.2020,"[{""name"": ""Web Scraper"", ""quantity"": 2, ""unit_cost"": 750}, {""name"": ""CSV To SQL Automation"", ""quantity"": 1, ""unit_cost"": 4500}]",Thanks for your business!
+Self Made,Uber,https://i.ibb.co/ZJLQJmb/selfmade-black.jpg,6,08.09.2020,25.09.2020,"[{""name"": ""Smart Drive App"", ""quantity"": 1, ""unit_cost"": 12000}]",Thank you!

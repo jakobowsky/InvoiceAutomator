@@ -1,0 +1,28 @@
+#Mac
+.DS_Store
+.vscode*
+
+
+# Temporary files
+.#~
+*.*~
+~.#~
+/.#~
+.vscode*
+
+venv/
+Pipfile
+Pipfile.lock
+
+# databases
+db.*
+*.sqlite3
+.idea/
+
+#keys
+secrets.json
+
+#Mac
+.DS_Store
+
+__pycache__/
